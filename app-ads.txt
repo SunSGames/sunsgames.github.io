@@ -1,4 +1,4 @@
-google.com, pub-8568833303821480, RESELLER, f08c47fec0942fa0
+google.com, pub-8568833303821480, RESELLER
 chartboost.com, 54ec0e150d60251745bcffb2, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
