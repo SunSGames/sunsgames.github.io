@@ -185,3 +185,4 @@ adingo.jp, 24702, DIRECT
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
+media.net, 8CUE7U6DS, DIRECT
